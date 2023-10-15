@@ -1,0 +1,13 @@
+Control
+AnimationPlayer
+Node
+Label
+ColorRect
+Node3D
+Area3D
+CollisionShape3D
+StaticBody3D
+CSGBox3D
+Camera3D
+MeshInstance3D
+CharacterBody3D
